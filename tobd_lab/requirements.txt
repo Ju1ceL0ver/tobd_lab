@@ -1,0 +1,11 @@
+prefect==2.*
+dask[distributed]==2024.*
+pandas==2.*
+requests==2.*
+SQLAlchemy==2.*
+psycopg2-binary==2.*
+streamlit==1.*
+pydeck==0.9.*
+folium==0.16.*
+streamlit-folium==0.20.*
+plotly==5.*
